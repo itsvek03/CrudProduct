@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\CrudProduct\CrudProduct\bin\Debug\CrudProduct.exe.config
+C:\Users\HP\source\repos\CrudProduct\CrudProduct\bin\Debug\CrudProduct.exe
+C:\Users\HP\source\repos\CrudProduct\CrudProduct\bin\Debug\CrudProduct.pdb
+C:\Users\HP\source\repos\CrudProduct\CrudProduct\obj\Debug\CrudProduct.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CrudProduct\CrudProduct\obj\Debug\CrudProduct.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CrudProduct\CrudProduct\obj\Debug\CrudProduct.exe
+C:\Users\HP\source\repos\CrudProduct\CrudProduct\obj\Debug\CrudProduct.pdb
